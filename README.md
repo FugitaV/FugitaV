@@ -1,43 +1,23 @@
-<h1 align="center">Hello, I'm Vitor Fugita 👋</h1>
-
 <p align="center">
-  Software Engineer with 4 years of experience | Backend Development | System Integrations | Software Architecture
+  Software Engineer | Backend | Integrations
 </p>
 
----
+## About Me
 
-## 🚀 About Me
-I am a Software Engineer with 4 years of experience developing and maintaining scalable systems, integrations, and backend solutions.  
-I have strong expertise with Oracle B2C Service (RightNow), including custom controllers, widgets, CPMs, APIs, complex workflows, and system integrations across multiple clients.
+I’m a Software Engineer with 4 years of experience working with backend development, system integrations, and scalable solutions.
+I have experience with Oracle B2C Service (RightNow), APIs, customizations, and workflow improvements. I also like learning more about backend architecture and building clean, maintainable systems.
 
-Throughout my career, I have worked on projects involving large-scale data processing, architecture improvement, and creating stable, maintainable solutions. I am passionate about building clean and efficient backend systems while exploring new technologies to improve software quality and performance.
+## Tech Stack
 
----
+- Java
+- JavaScript
+- PHP
+- React
+- Oracle B2C Service
+- APIs and Integrations
 
-## 🛠️ Languages and Tools
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
-</p>
+## Contact
 
----
-
-## 🎯 Interests
-- Backend Development  
-- System Integrations  
-- Software Architecture  
-- API Design  
-- Building scalable and maintainable systems  
-
----
-
-## 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/vitorfugita/)
-- 💼 [GitHub](https://github.com/FugitaV/)
-
----
-
-
+- [LinkedIn](https://www.linkedin.com/in/vitorfugita/)
+- [GitHub](https://github.com/FugitaV/)
+- [LeetCode](https://leetcode.com/u/FugitaV/)
